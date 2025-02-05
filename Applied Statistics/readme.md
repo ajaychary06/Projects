@@ -97,5 +97,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Contact
 
-Your Name - [AjaycharyKandukuri](https://www.linkedin.com/in/ajaychary-kandukuri-053a5a25a) - ajaycharykandukuri0629@gmail.com
+Your Name - [Ajaychary Kandukuri](https://www.linkedin.com/in/ajaychary-kandukuri-053a5a25a) - ajaycharykandukuri0629@gmail.com
 
