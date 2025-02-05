@@ -67,9 +67,17 @@ Brain tumor diagnosis is **critical yet challenging** with traditional manual me
 
 ### 📢 Contributions & Feedback are welcome! Feel free to fork, improve, and create PRs.
 
-#### 🔗 Connect 
 
-For questions or collaboration, feel free to reach out to [www.linkedin.com/in/ajaychary-kandukuri-053a5a25a]
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ajaychary06/Projects/blob/main/LICENSE) file for details.
+
+
+## Contact
+
+Your Name - [Ajaychary Kandukuri](https://www.linkedin.com/in/ajaychary-kandukuri-053a5a25a) - ajaycharykandukuri0629@gmail.com
+
 
 
 
