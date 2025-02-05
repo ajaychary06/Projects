@@ -35,7 +35,9 @@ install.packages(c(
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/applied-statistics-project.git
+git clone https://github.com/ajaychary06/Projects.git
+cd Projects/Applied-Statistics/applied-final-project.Rmd
+
 ```
 
 2. Open the R project in RStudio
