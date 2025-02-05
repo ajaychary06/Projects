@@ -19,9 +19,6 @@ Brain tumor diagnosis is **critical yet challenging** with traditional manual me
    ```bash
    git clone https://github.com/ajaychary06/Projects.git
    cd Projects/Deep-learning-for-automated-brain-tumor-diagnosis-in-MRI-scans/
-
-
-   cd projects/Deep-learning-for-automated-brain-tumor-diagnosis-in-MRI-scans
 2. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
