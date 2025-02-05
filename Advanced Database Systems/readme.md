@@ -32,8 +32,9 @@ This web application serves as a comprehensive university portal that enables pr
 ### Setup Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/ajaychary06/Final-proj-ADBS.git
-cd Final-proj-ADBS
+git clone https://github.com/ajaychary06/Projects.git
+cd Projects/Advanced-Database-Systems/application.py
+
 ```
 
 2. Create and activate a virtual environment:
