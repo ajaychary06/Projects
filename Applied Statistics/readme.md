@@ -92,8 +92,10 @@ applied-statistics-project/
 
 ## License
 
-This project is licensed under the MIT License. See the ```License``` file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ajaychary06/Projects/blob/main/LICENSE) file for details.
+
 
 ## Contact
 
-For questions or collaboration, feel free to reach out at (www.linkedin.com/in/ajaychary-kandukuri-053a5a25a)
+Your Name - [@Ajaychary Kandukuri](www.linkedin.com/in/ajaychary-kandukuri-053a5a25a) - ajaycharykandukuri0629@gmail.com
+
