@@ -17,7 +17,9 @@ Brain tumor diagnosis is **critical yet challenging** with traditional manual me
 ### 📌 Installation  
 1. **Clone the Repository**  
    ```bash
-   git clone --branch 8f82fb52288bada5f1efda948b9c4c414a131c1f https://github.com/ajaychary06/projects.git
+   git clone https://github.com/ajaychary06/Projects.git
+   cd Projects/Deep-learning-for-automated-brain-tumor-diagnosis-in-MRI-scans/
+
 
    cd projects/Deep-learning-for-automated-brain-tumor-diagnosis-in-MRI-scans
 2. **Install Dependencies**
