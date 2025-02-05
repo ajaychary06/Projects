@@ -126,6 +126,20 @@ class Student:
 - Enhanced UI/UX design
 - Support for additional database systems
 
+
+
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ajaychary06/Projects/blob/main/LICENSE) file for details.
+
+
+## Contact
+
+Your Name - [@Ajaychary Kandukuri](www.linkedin.com/in/ajaychary-kandukuri-053a5a25a) - ajaycharykandukuri0629@gmail.com
+
 ## License
 
 This project is licensed under the MIT License. See the ```License``` file for details
