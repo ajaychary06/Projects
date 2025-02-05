@@ -40,7 +40,9 @@ install.packages(c(
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/real-estate-analysis.git
+git clone https://github.com/ajaychary06/Projects.git
+cd Projects/Computational-Statistics/final-project.rmd
+
 ```
 
 2. Data Setup:
