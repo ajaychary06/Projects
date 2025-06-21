@@ -14,7 +14,7 @@ Welcome to my GitHub repository showcasing a diverse portfolio of academic and a
 ### 2. **Real-Time Product Clickstream Analytics**
 - Kafka, Spark Structured Streaming, Airflow & Flask Dashboard  
 - Visualizes live user interaction trends  
-- [Link (not in repo)](https://github.com/ajaychary06/real-time-product-clickstream)
+- [Details)](https://github.com/ajaychary06/Real-Time-Product-Clickstream-Analytics-with-Kafka-Spark-Airflow.git)
 
 ### 3. **Fake News Detection with ML**
 - Built multiple ML models (LogReg, SVM, Random Forest) on real/fake news dataset  
