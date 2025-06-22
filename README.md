@@ -69,7 +69,7 @@ Welcome to my GitHub repository showcasing a diverse portfolio of academic and a
 ## 📬 Contact
 
 **Ajaychary Kandukuri**  
-📧 ajaycharykandukuri0629@gmail.com  
+📧 ajaycharykandukuri06@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/ajaychary-kandukuri-053a5a25a)
 
 ---
