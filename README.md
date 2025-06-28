@@ -14,19 +14,29 @@ Welcome to my GitHub repository showcasing a diverse portfolio of academic and a
 ### 2. **Real-Time Product Clickstream Analytics**
 - Kafka, Spark Structured Streaming, Airflow & Flask Dashboard  
 - Visualizes live user interaction trends  
-- [Details)](https://github.com/ajaychary06/Real-Time-Product-Clickstream-Analytics-with-Kafka-Spark-Airflow.git)
+- [Details](https://github.com/ajaychary06/Real-Time-Product-Clickstream-Analytics-with-Kafka-Spark-Airflow.git)
 
-### 3. **Fake News Detection with ML**
+### 3. **SAP Procurement Local Pipeline**
+- End-to-end procurement analytics pipeline simulating SAP data ingestion  
+- Forecasts spend and scores supplier risk using Prophet and Isolation Forest  
+- [Details](https://github.com/ajaychary06/SAP-Procurement-Localpipeline.git)
+
+### 4. **Clinlytix360 – Clinical Analytics Platform**
+- Survival analysis, psychometrics, and dashboards for EHR and PRO data  
+- Airflow, Streamlit, R (psych, lavaan), Docker  
+- [Details](https://github.com/ajaychary06/clinlytix360-clinical-analytics-pipeline.git)
+
+### 5. **Fake News Detection with ML**
 - Built multiple ML models (LogReg, SVM, Random Forest) on real/fake news dataset  
 - Uses TF-IDF and NLP techniques  
 - [Details](./Data%20Mining/)
 
-### 4. **Healthcare Data Privacy System**
+### 6. **Healthcare Data Privacy System**
 - Flask app with AES & RSA encryption, MySQL, role-based access  
 - HIPAA-aligned secure medical data handling  
 - [Details](./Data%20Security%20and%20Privacy/)
 
-### 5. **Digit Recognition (MNIST)**
+### 7. **Digit Recognition (MNIST)**
 - 3-layer Neural Network using NumPy  
 - 78.5% training accuracy, built from scratch  
 - [Details](./Deep%20Learning%20MNIST/)
@@ -35,22 +45,22 @@ Welcome to my GitHub repository showcasing a diverse portfolio of academic and a
 
 ## 📈 Statistical & Business Analytics Projects
 
-### 6. **Car Seat Sales Forecasting**
+### 8. **Car Seat Sales Forecasting**
 - Predictive modeling using R, Random Forest, Regression  
 - Market feature impact analysis  
 - [Details](./Statistical%20Learning/)
 
-### 7. **Real Estate Sales Trend Analysis**
+### 9. **Real Estate Sales Trend Analysis**
 - Time series & spatial analytics using R  
 - 20-year Connecticut housing dataset  
 - [Details](./Computational%20Statistics/)
 
-### 8. **Big Data Patterns in NYC Taxi Trips**
+### 10. **Big Data Patterns in NYC Taxi Trips**
 - Python, Pandas, GeoSpatial analysis  
 - Analyzed temporal and spatial pickup/drop trends  
 - [Details](./Big%20Data%20Analysis/)
 
-### 9. **Advanced DBMS - Retail Web App**
+### 11. **Advanced DBMS - Retail Web App**
 - Flask + SQL + CRUD application  
 - Simulates shopping cart and order management  
 - [Details](./Advanced%20Database%20Systems/)
@@ -62,7 +72,7 @@ Welcome to my GitHub repository showcasing a diverse portfolio of academic and a
 - **Frameworks**: Flask, Airflow, Spark, FastAPI  
 - **Libraries**: NumPy, pandas, scikit-learn, TensorFlow, Plotly, seaborn  
 - **Databases**: MySQL, Oracle, PostgreSQL  
-- **Cloud/DevOps**: Git, Docker (planned), Jupyter, VS Code  
+- **Cloud/DevOps**: Git, Docker, Jupyter, VS Code  
 
 ---
 
